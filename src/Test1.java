@@ -8,12 +8,13 @@ public class Test1 {
 	public static void main(String[] arg) {
 		
 		
-		
 		System.out.println("Ingresar Usuario");
 			
 		String usuario = sc.nextLine();
 		
 		System.out.println("bienvenido " + usuario);
+		
+		System.out.println("Primeros cambios al archivo");
 		
 	}
 
